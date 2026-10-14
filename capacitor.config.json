@@ -1,0 +1,8 @@
+{
+  "appId": "com.wesla.marketplace",
+  "appName": "وِصلة",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
